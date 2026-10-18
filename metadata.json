@@ -1,0 +1,6 @@
+{
+  "name": "NovaCare Medical Center - Healthcare Portal",
+  "description": "Comprehensive hospital management and digital healthcare portal for NovaCare Medical Center featuring patient care, clinical workflows, and public services.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
